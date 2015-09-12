@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola totu
+=======
+hola toto
+>>>>>>> 85447993a9564df251ce90e111aaa6a41ccab705
